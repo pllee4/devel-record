@@ -1,6 +1,6 @@
 # 16/01
 
 ## Update
-- Save work that fullfills minimal requirement for path finder
+- Save work that fulfills minimal requirement for path finder
 
-https://user-images.githubusercontent.com/42335542/223115104-6b56984a-59c4-4016-82c9-47584f753608.mp4
+https://user-images.githubusercontent.com/42335542/231475656-6e30cb92-772d-4c4c-aa8c-ceec94777644.mp4
