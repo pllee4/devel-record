@@ -12,9 +12,9 @@
 ![model-view-controller](https://user-images.githubusercontent.com/42335542/180603695-f2d6f11f-b8c8-431f-8f72-33239f6a7229.png)
 
 # August
-https://user-images.githubusercontent.com/42335542/192101882-424101d5-fd16-42d2-97a7-fd48f1c66607.mp4
+https://user-images.githubusercontent.com/42335542/231462742-8f58bbff-9466-4396-afd1-18a6cc9eb32e.mp4
 
-https://user-images.githubusercontent.com/42335542/192099160-5cf4f11d-d70b-46d8-a8f1-00bdab88269e.mp4
+https://user-images.githubusercontent.com/42335542/231462311-5a3b307e-d820-4145-b852-db18642b0350.mp4
 
 # September
 https://user-images.githubusercontent.com/42335542/192101433-e61fe675-e1d3-48d2-8c27-17929e3c09fa.mp4
