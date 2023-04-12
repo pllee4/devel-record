@@ -4,4 +4,4 @@
 - After learning more about model, view and projection, finally able to render model of balancing robot.
 
 ### Rendering
-https://user-images.githubusercontent.com/42335542/192101433-e61fe675-e1d3-48d2-8c27-17929e3c09fa.mp4
+https://user-images.githubusercontent.com/42335542/231464449-b0e866b8-2db8-4710-a8b7-0c7b64f0464c.mp4
