@@ -5,7 +5,7 @@
 - Update old not optimized rendering to new method to improve rendering performance
 
 ### Old rendering
-https://user-images.githubusercontent.com/42335542/207886971-3f54b46e-97e5-4f87-a7a5-7151c119bc29.mp4
+https://user-images.githubusercontent.com/42335542/231470745-0a5187f7-10ec-497a-9877-32c036f8314d.mp4
 
 ### New rendering
-https://user-images.githubusercontent.com/42335542/207886991-6a700555-c855-43bd-bd26-9066bbc64ece.mp4
+https://user-images.githubusercontent.com/42335542/231471141-922f6666-682c-436a-9890-6306ec9ed18d.mp4
