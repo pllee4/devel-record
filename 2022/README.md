@@ -24,9 +24,9 @@ https://user-images.githubusercontent.com/42335542/231464449-b0e866b8-2db8-4710-
 # October
 ![app-line-visualizer](https://user-images.githubusercontent.com/42335542/194744922-07e859a0-3996-4424-9e70-488e157415c5.gif)
 
-https://user-images.githubusercontent.com/42335542/195987892-06b98e7d-ee91-4528-93bd-449e71132e7a.mp4
+https://user-images.githubusercontent.com/42335542/231466682-4c005e95-8ccd-4fcf-a8e8-ab7917205d26.mp4
 
-https://user-images.githubusercontent.com/42335542/195987632-08d66189-ae40-4b20-8493-2a341c357b00.mp4
+https://user-images.githubusercontent.com/42335542/231467057-fb47d4b3-ffc7-4553-a838-6f62db9ea998.mp4
 
 # December
 https://user-images.githubusercontent.com/42335542/207886991-6a700555-c855-43bd-bd26-9066bbc64ece.mp4
