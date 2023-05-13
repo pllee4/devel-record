@@ -5,4 +5,4 @@
 - Act as fundamental knowledge for modeling and control.
 - May extend to inverted pendulum for balancing robot in future.
 
-https://user-images.githubusercontent.com/42335542/236662326-dc3b7890-8f69-47ef-9f9d-8ca0762b76d6.mp4
+https://github.com/pllee4/devel-record/assets/42335542/26d2dad7-8f48-4d19-94b7-b980e8fc7570
