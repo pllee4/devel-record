@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/42335542/231462311-5a3b307e-d820-4145-
 # September
 https://user-images.githubusercontent.com/42335542/231464449-b0e866b8-2db8-4710-a8b7-0c7b64f0464c.mp4
 
-[![Integration for rendering](https://user-images.githubusercontent.com/42335542/192526777-0d95656f-95da-4cc4-bfcf-c78474aabbac.png)](https://drive.google.com/file/d/1tM8EbuWiZtU_QLRiKonihn1oUo041ZsT/view)
+https://github.com/pllee4/devel-record/assets/42335542/fff578e2-e74c-4623-a1b0-fffedddb421d
 
 # October
 ![app-line-visualizer](https://user-images.githubusercontent.com/42335542/194744922-07e859a0-3996-4424-9e70-488e157415c5.gif)
