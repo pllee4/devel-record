@@ -21,6 +21,8 @@ https://user-images.githubusercontent.com/42335542/231464449-b0e866b8-2db8-4710-
 
 https://github.com/pllee4/devel-record/assets/42335542/fff578e2-e74c-4623-a1b0-fffedddb421d
 
+If it can't be rendered from browser of mobile device, consider download from [google drive](https://drive.google.com/file/d/1tM8EbuWiZtU_QLRiKonihn1oUo041ZsT/view)
+
 # October
 ![app-line-visualizer](https://user-images.githubusercontent.com/42335542/194744922-07e859a0-3996-4424-9e70-488e157415c5.gif)
 
