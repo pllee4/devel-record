@@ -12,3 +12,8 @@ https://user-images.githubusercontent.com/42335542/227940606-78a59bde-e13c-4c52-
 
 # May
 https://github.com/pllee4/devel-record/assets/42335542/a7ec2efc-9354-40a9-8873-73fe8b8a34df
+
+# June
+https://github.com/pllee4/devel-record/assets/42335542/253cfc30-b491-4843-95cc-4262c317e72f
+
+https://github.com/pllee4/devel-record/assets/42335542/6a6bce45-d4c2-42dd-b72c-3704e865e0e7
