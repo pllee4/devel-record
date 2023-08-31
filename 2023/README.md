@@ -20,3 +20,6 @@ https://github.com/pllee4/devel-record/assets/42335542/6a6bce45-d4c2-42dd-b72c-3
 
 # July
 https://github.com/pllee4/devel-record/assets/42335542/d5edef4f-6e3d-4557-b3e5-9232f7c4587d
+
+# August
+https://github.com/pllee4/devel-record/assets/42335542/cbb5b04a-b955-4dfa-a54b-699dcf61af52
