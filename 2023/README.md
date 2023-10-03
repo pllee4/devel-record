@@ -23,3 +23,8 @@ https://github.com/pllee4/devel-record/assets/42335542/d5edef4f-6e3d-4557-b3e5-9
 
 # August
 https://github.com/pllee4/devel-record/assets/42335542/cbb5b04a-b955-4dfa-a54b-699dcf61af52
+
+# September
+![convex_hull_draft_ui](https://github.com/pllee4/devel-record/assets/42335542/aa7aeb26-3c7e-4c7c-a2fc-8207dbc0a079)
+
+https://github.com/pllee4/devel-record/assets/42335542/bb2ccdd5-54da-42b7-afbe-4de75776003f
