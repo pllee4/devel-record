@@ -82,4 +82,9 @@ https://github.com/pllee4/devel-record/assets/42335542/bb2ccdd5-54da-42b7-afbe-4
 # October
 https://github.com/pllee4/devel-record/assets/42335542/93bc9910-54da-4062-ad47-a2ae4f0b3a53
 
+# November
+![UpdatedPart1Final](https://github.com/pllee4/devel-record/assets/42335542/a5a3ed78-2e83-4d9b-b81e-a6e3a09f8d1e)
+
+![PreProcessingTuningTools](https://github.com/pllee4/devel-record/assets/42335542/ffab9e3e-d10e-4b25-95a9-df3a62c39ab6)
+
 </details>
