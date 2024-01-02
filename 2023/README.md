@@ -36,3 +36,8 @@ https://github.com/pllee4/devel-record/assets/42335542/93bc9910-54da-4062-ad47-a
 ![UpdatedPart1Final](https://github.com/pllee4/devel-record/assets/42335542/a5a3ed78-2e83-4d9b-b81e-a6e3a09f8d1e)
 
 ![PreProcessingTuningTools](https://github.com/pllee4/devel-record/assets/42335542/ffab9e3e-d10e-4b25-95a9-df3a62c39ab6)
+
+# December
+https://github.com/pllee4/devel-record/assets/42335542/fdf2867c-08e9-4c9a-9bf5-b5e536c09e11
+
+https://github.com/pllee4/devel-record/assets/42335542/3d1bb528-b081-4193-823a-420b58ec7d7c
