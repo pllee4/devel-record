@@ -5,4 +5,4 @@
 - Currently only finished mode with one joystick with consideration to avoid angle more than 360.
 - Can consider angle optimization and body angle rotation in next step.
 
-https://github.com/pllee4/devel-record/assets/42335542/5e344f93-4674-4e82-a525-2bb6d62d9e35
+https://github.com/pllee4/devel-record/assets/42335542/cd87770e-0d97-437b-a90a-560027230fb2
