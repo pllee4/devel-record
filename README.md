@@ -95,4 +95,7 @@ https://github.com/pllee4/devel-record/assets/42335542/3d1bb528-b081-4193-823a-4
 <details>
     <summary><a href="https://www.youtube.com/playlist?list=PLfIcbXzvbzhRviyoMBo2-RNCkVolhdj17">2024</a></summary>
 
+# January
+https://github.com/pllee4/devel-record/assets/42335542/cd87770e-0d97-437b-a90a-560027230fb2
+
 </details>
