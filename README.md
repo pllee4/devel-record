@@ -101,4 +101,7 @@ https://github.com/pllee4/devel-record/assets/42335542/cd87770e-0d97-437b-a90a-5
 # February
 https://github.com/pllee4/devel-record/assets/42335542/db111821-1118-4941-8a5c-1beaad5190fc
 
+# March
+![Simplex vs Interior](https://gitfront.io/r/pllee4/hKefp17oz55X/ME5414/raw/result/Part2a.png)
+
 </details>
