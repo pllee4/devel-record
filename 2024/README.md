@@ -20,3 +20,15 @@ https://github.com/pllee4/devel-record/assets/42335542/a4cb7495-3ed5-43fa-8698-6
 
 # July
 https://github.com/user-attachments/assets/3d01055c-4d98-47ca-979b-db731f8dba8e
+
+# August
+https://github.com/user-attachments/assets/be59bd55-7e8a-48db-b49e-27b5725c63fe
+
+# September
+![Rest](https://img.shields.io/badge/Rest-%F0%9F%9B%8F-blue)
+
+# October
+![Rest](https://img.shields.io/badge/Rest-%F0%9F%9B%8F-blue)
+
+# November
+https://github.com/user-attachments/assets/2503bf08-3735-4ce0-9df9-a59654848b70
