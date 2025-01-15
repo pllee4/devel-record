@@ -32,3 +32,6 @@ https://github.com/user-attachments/assets/be59bd55-7e8a-48db-b49e-27b5725c63fe
 
 # November
 https://github.com/user-attachments/assets/2503bf08-3735-4ce0-9df9-a59654848b70
+
+# December
+![Rest](https://img.shields.io/badge/Rest-%F0%9F%9B%8F-blue)
