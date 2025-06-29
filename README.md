@@ -133,6 +133,8 @@ https://github.com/user-attachments/assets/2503bf08-3735-4ce0-9df9-a59654848b70
 # December
 ![Rest](https://img.shields.io/badge/Rest-%F0%9F%9B%8F-blue)
 
+</details>
+
 <details>
     <summary><a href="https://youtube.com/playlist?list=PLfIcbXzvbzhR3rviyM6bRZQl87_WZ53uA">2025</a></summary>
 
