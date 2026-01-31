@@ -158,4 +158,13 @@ https://github.com/user-attachments/assets/6bde0ea0-714e-4cec-91c2-b0f0f0a6af1e
 # June
 https://github.com/user-attachments/assets/b9ec1d0b-36a9-4e45-8d93-4029d9d36852
 
+# August
+https://github.com/user-attachments/assets/4489a7e7-ccc7-4d6d-82db-0d9f6232ce50
+
+# October
+https://github.com/user-attachments/assets/0eb70369-0304-497e-ac77-26fdaeb6dd93
+
+# November
+https://github.com/user-attachments/assets/a9f926ec-ac74-4e22-b396-8ac75912baa9
+
 </details>
